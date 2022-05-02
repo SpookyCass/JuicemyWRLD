@@ -24,6 +24,10 @@ html{
     color:white;
     font-family: 'New Rocker', cursive;
 }
+body {
+    background-image: url("../images/999bg2.png");
+    background-repeat: space;
+  }
 
 header{
     position: sticky;
